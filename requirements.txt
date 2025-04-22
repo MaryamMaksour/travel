@@ -8,6 +8,4 @@ pydantic
 openai
 starlette
 
-
-# If deploying
-# gunicorn
+deep-translator
